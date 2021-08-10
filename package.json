@@ -1,0 +1,16 @@
+{
+  "name": "mongonew",
+  "version": "1.0.0",
+  "description": "Mongo demo extended",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Upkar Saraswat",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.13.6",
+    "nodemon": "^2.0.12"
+  }
+}
